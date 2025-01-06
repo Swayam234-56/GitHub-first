@@ -1,0 +1,12 @@
+##------------print Sum of all odd numbers from 1-100
+# sum1 = 0
+# print("Odd nos from 1-100:")
+# for i in range(1,100,):
+#     if i%2==1:
+#         print(i, end =" ")
+#         sum1=i+sum1
+# print("\nSum of all odd numbers:",sum1)
+  
+  
+
+ 
